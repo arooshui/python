@@ -1,0 +1,9 @@
+2026-01-31 17:36:32,799 - INFO - dividing a10 by b2
+2026-01-31 17:36:48,239 - INFO - dividing a10 by b2
+2026-01-31 17:36:48,240 - INFO - result = 5.0
+2026-01-31 17:36:48,241 - INFO - dividing a10 by b0
+2026-01-31 17:36:48,241 - ERROR - Division by zero
+2026-01-31 17:37:03,724 - INFO - dividing a10 by b2
+2026-01-31 17:37:03,724 - INFO - result = 5.0
+2026-01-31 17:37:03,725 - INFO - dividing a10 by b0
+2026-01-31 17:37:03,725 - ERROR - Division by zero
